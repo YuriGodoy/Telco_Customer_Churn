@@ -1,0 +1,8 @@
+pyproject.toml
+src/Repo_git.egg-info/PKG-INFO
+src/Repo_git.egg-info/SOURCES.txt
+src/Repo_git.egg-info/dependency_links.txt
+src/Repo_git.egg-info/top_level.txt
+src/repo_git/__init__.py
+src/repo_git/metrics.py
+tests/test_metrics.py

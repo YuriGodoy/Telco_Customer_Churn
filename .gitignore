@@ -1,0 +1,312 @@
+# ==============================
+# Python
+# ==============================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[codz]
+*$py.class
+
+# C extensions
+*.so
+
+# ==============================
+# Virtual environments
+# ==============================
+
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables / secrets
+.env
+.env.*
+.envrc
+
+# ==============================
+# Distribution / packaging
+# ==============================
+
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ==============================
+# PyInstaller
+# ==============================
+
+*.manifest
+*.spec
+
+# ==============================
+# Installer logs
+# ==============================
+
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ==============================
+# Tests / coverage
+# ==============================
+
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py.cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# ==============================
+# Jupyter / IPython
+# ==============================
+
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# ==============================
+# Data Science / datasets
+# ==============================
+
+*.parquet
+
+# Descomente se quiser evitar versionar arquivos de dados grandes:
+# *.csv
+# *.xlsx
+# *.xls
+# *.json
+
+# ==============================
+# Machine Learning artifacts
+# ==============================
+
+*.pkl
+*.pickle
+*.joblib
+
+# Descomente caso salve modelos nesses formatos:
+# *.h5
+# *.keras
+# *.onnx
+# *.pt
+# *.pth
+
+# ==============================
+# Logs
+# ==============================
+
+*.log
+logs/
+
+# ==============================
+# Django
+# ==============================
+
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# ==============================
+# Flask
+# ==============================
+
+instance/
+.webassets-cache
+
+# ==============================
+# Scrapy
+# ==============================
+
+.scrapy/
+
+# ==============================
+# Sphinx
+# ==============================
+
+docs/_build/
+
+# ==============================
+# PyBuilder
+# ==============================
+
+.pybuilder/
+target/
+
+# ==============================
+# PDM
+# ==============================
+
+.pdm-python
+.pdm-build/
+
+# ==============================
+# Pixi
+# ==============================
+
+.pixi/
+
+# ==============================
+# PEP 582
+# ==============================
+
+__pypackages__/
+
+# ==============================
+# Celery
+# ==============================
+
+celerybeat-schedule
+celerybeat.pid
+
+# ==============================
+# Redis
+# ==============================
+
+*.rdb
+*.aof
+*.pid
+
+# ==============================
+# RabbitMQ
+# ==============================
+
+mnesia/
+rabbitmq/
+rabbitmq-data/
+
+# ==============================
+# ActiveMQ
+# ==============================
+
+activemq-data/
+
+# ==============================
+# SageMath
+# ==============================
+
+*.sage.py
+
+# ==============================
+# Spyder
+# ==============================
+
+.spyderproject
+.spyproject
+
+# ==============================
+# Rope
+# ==============================
+
+.ropeproject
+
+# ==============================
+# MkDocs
+# ==============================
+
+/site
+
+# ==============================
+# Type checking
+# ==============================
+
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+
+# ==============================
+# Cython
+# ==============================
+
+cython_debug/
+
+# ==============================
+# Ruff
+# ==============================
+
+.ruff_cache/
+
+# ==============================
+# PyPI
+# ==============================
+
+.pypirc
+
+# ==============================
+# Marimo
+# ==============================
+
+marimo/_static/
+marimo/_lsp/
+__marimo__/
+
+# ==============================
+# Streamlit
+# ==============================
+
+.streamlit/secrets.toml
+
+# ==============================
+# VS Code
+# ==============================
+
+tempCodeRunnerFile.py
+
+# Descomente se não quiser versionar configurações do VS Code:
+# .vscode/
+
+# ==============================
+# PyCharm / JetBrains
+# ==============================
+
+# .idea/
+
+# ==============================
+# Operating System
+# ==============================
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# ==============================
+# Temporary files
+# ==============================
+
+*.tmp
+*.temp
+*.swp
+*.swo
