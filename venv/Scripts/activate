@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\yurio\OneDrive\Documentos\Google Drive\Carreira Profissional\Projetos Portifólio\Repo_git\venv"
+VIRTUAL_ENV="C:\Users\yurio\OneDrive\Documentos\Google Drive\Carreira Profissional\Projetos Portifólio\Telco_Customer_Churn\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

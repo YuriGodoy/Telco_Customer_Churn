@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\yurio\OneDrive\Documentos\Google Drive\Carreira Profissional\Projetos Portifólio\Repo_git\venv
+set VIRTUAL_ENV=C:\Users\yurio\OneDrive\Documentos\Google Drive\Carreira Profissional\Projetos Portifólio\Telco_Customer_Churn\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
